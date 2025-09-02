@@ -1,5 +1,5 @@
 # Taylor-Swift-Test-for-MacOS
-<img width="1024" height="1024" alt="Frame 1" src="https://github.com/user-attachments/assets/08c14f2c-1afe-4c89-9b65-7fee7a0c840e" />
+<img width="512" height="512" alt="Frame 1" src="https://github.com/user-attachments/assets/08c14f2c-1afe-4c89-9b65-7fee7a0c840e" />
 
 A lightweight macOS app built with SwiftUI that lets you test your knowledge of Taylor Swift with fun trivia questions.
 Answer questions, earn points, and see how much of a true Swiftie you are! 🎤✨
